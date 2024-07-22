@@ -22,7 +22,7 @@ Welcome to the News App! This application helps you stay up-to-date with the lat
 
 ## Screenshots
 ![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](image.png)
 ## Installation
 
 ### Frontend
