@@ -77,6 +77,7 @@ function AddEditNotes({noteData ,type,onClose ,getAllNotes , showToastMessage}) 
             addNewNote()
         }
     }
+    
   return (
     <div className='relative'>
         <button
