@@ -1,4 +1,4 @@
-# News App with Vocabulary Notes
+# News App 
 
 Welcome to the News App! This application helps you stay up-to-date with the latest news and includes a notes section to help you increase your vocabulary. Users can sign up, log in, and add notes.
 
